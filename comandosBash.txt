@@ -10,6 +10,7 @@ git init . - cria uma pasta repositorio especial github
 rm - remove arquivo 
 git status - estado atual da pasta git
 git add "nome arquivo" - inclue arquivo para commit 
+ *
 
 
 
