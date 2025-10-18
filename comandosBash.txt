@@ -1,0 +1,9 @@
+comandos git
+
+ls - listar arquivos, pasta atual
+cd - muda de diretorio
+pwd - caminho das pastas até a pasta atual 
+ctrl + l - LIMPA TELA TERMINAL
+mkdir - cria pasta = mkdir "nome da pasta"
+cat - ler arquivo .txt
+
