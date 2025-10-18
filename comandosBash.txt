@@ -1,9 +1,16 @@
 comandos git
 
-ls - listar arquivos, pasta atual
+ls - listar arquivos, pasta atual = ls -a arquivos ocultos
 cd - muda de diretorio
 pwd - caminho das pastas até a pasta atual 
 ctrl + l - LIMPA TELA TERMINAL
 mkdir - cria pasta = mkdir "nome da pasta"
-cat - ler arquivo .txt
+cat - ler arquivo 
+git init . - cria uma pasta repositorio especial github
+rm - remove arquivo 
+git status - estado atual da pasta git
+git add "nome arquivo" - inclue arquivo para commit 
+
+
+
 
