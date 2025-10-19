@@ -10,7 +10,11 @@ git init . - cria uma pasta repositorio especial github
 rm - remove arquivo 
 git status - estado atual da pasta git
 git add "nome arquivo" - inclue arquivo para commit 
-****
+GIT LOG - 	
+git diff - mostra o que esta adicionado no arquivo atual, porem não commitado
+git reset - retira o arquivo de pronto para commit 
+
+
 
 
 
