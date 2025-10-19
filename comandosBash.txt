@@ -14,7 +14,8 @@ GIT LOG -
 git diff - mostra o que esta adicionado no arquivo atual, porem não commitado
 git reset - retira o arquivo de pronto para commit 
 git commit -m "nome da ação no commit"
-
+git checkout - b 'nome da ramificação' - brench separada e/ou secundaria
+git merge - junta os branchs(trabalhos) 
 
 
 
