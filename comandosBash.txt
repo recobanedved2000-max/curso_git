@@ -13,6 +13,7 @@ git add "nome arquivo" - inclue arquivo para commit
 GIT LOG - 	
 git diff - mostra o que esta adicionado no arquivo atual, porem não commitado
 git reset - retira o arquivo de pronto para commit 
+git commit -m "nome da ação no commit"
 
 
 
