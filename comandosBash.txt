@@ -1,4 +1,4 @@
-comandos git
+comandos git -> teste 
 
 ls - listar arquivos, pasta atual = ls -a arquivos ocultos
 cd - muda de diretorio
@@ -16,7 +16,8 @@ git reset - retira o arquivo de pronto para commit
 git commit -m "nome da ação no commit"
 git checkout - b 'nome da ramificação' - brench separada e/ou secundaria
 git merge - junta os branchs(trabalhos) 
+git branch -d 'nome branch'- exclui a branch 
 
-
+teste mensagem 
 
 
